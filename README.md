@@ -1,9 +1,18 @@
+Absolutely! Here's your updated `README.md` with improved structure, verified Markdown image references (assuming your files are in a `sample/` folder), and helpful comments so you can adjust as needed:
+
+---
+
+```markdown
 # 🎨 **Renderly – AI-Powered Image Toolkit**
 
 **Renderly** is a sleek, AI-enhanced image editing app that puts powerful visual tools right at your fingertips. Whether you're creating art from text, removing backgrounds, or enhancing image quality — Renderly makes it fast, intuitive, and fun.
 
-![Renderly Homepage](sample/homepage.jpg)  
-*📸 Homepage of Renderly*
+---
+
+## 🏠 Homepage
+
+![Renderly Homepage](sample/Homepage.jpg)  
+*📸 A look at the Renderly home screen.*
 
 ---
 
@@ -22,30 +31,25 @@
 
 ## 🎥 Live Demo
 
-### 🔧 How it works: Background Removal
-![Background Remover GIF](sample/gif1.gif)
+### ✂️ Background Remover in Action
+![Background Remover GIF](sample/Gif1.gif)
 
-### 🦋 How it works: Generative Fill
-![Generative Fill GIF](sample/gif2.gif)
+### 🦋 Generative Fill in Action
+![Generative Fill GIF](sample/Gif2.gif)
 
 ---
 
-## 📱 Installation
-
-```bash
-git clone https://github.com/yourusername/Renderly.git
-cd Renderly
-# Install dependencies or run depending on your setup
-```
-
-> 📲 *Renderly is designed for mobile-first experience — optimized for Android.*
+> 📲 *Renderly is designed for a mobile-first experience — optimized for Android.*
 
 ---
 
 ## 🛠 Built With
 
-- React Native
-- OpenAI / Stable Diffusion API for text-to-image generation
+- **React Native** – Mobile app framework
+- **OpenAI / Stable Diffusion API** – For text-to-image generation
+- **Remove.bg API or Custom Model** – For background removal
+- **Image Upscaler Models** – For resolution enhancement
+- **Custom Generative Fill AI** – For smart inpainting
 
 ---
 
