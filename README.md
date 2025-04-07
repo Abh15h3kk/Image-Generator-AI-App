@@ -1,8 +1,3 @@
-Absolutely! Here's your updated `README.md` with improved structure, verified Markdown image references (assuming your files are in a `sample/` folder), and helpful comments so you can adjust as needed:
-
----
-
-```markdown
 # 🎨 **Renderly – AI-Powered Image Toolkit**
 
 **Renderly** is a sleek, AI-enhanced image editing app that puts powerful visual tools right at your fingertips. Whether you're creating art from text, removing backgrounds, or enhancing image quality — Renderly makes it fast, intuitive, and fun.
